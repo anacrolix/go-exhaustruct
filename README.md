@@ -17,7 +17,7 @@
 ### Installation
 
 ```shell
-go get -u github.com/GaijinEntertainment/go-exhaustruct/v3/cmd/exhaustruct
+go install github.com/GaijinEntertainment/go-exhaustruct/v3/cmd/exhaustruct@latest
 ```
 
 ### Usage
